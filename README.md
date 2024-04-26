@@ -22,3 +22,7 @@ Made by [HDz](https://github.com/hdz-088)
 
 **Date of Creation**: April 26th, 2024
 **Last Update**: April 26th, 2024
+
+| Title                | Description                             |
+| -------------------- | --------------------------------------- |
+| 240426-Favicon Added | Added a Favicon Icon in index.html file |
