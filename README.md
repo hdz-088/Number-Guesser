@@ -2,6 +2,8 @@
 
 I have made a Number Guessing Game using HTML, CSS, and JS as a part of my JavaScript learning journey. This is my first major project which includes usage of JavaScript.
 
+[Click Here To Play 🎮](https://hdz-088.github.io/Number-Guesser/)
+
 **Gameplay**:
 
 - Enter Your Number in the text box
